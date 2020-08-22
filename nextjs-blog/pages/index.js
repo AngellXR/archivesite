@@ -26,7 +26,10 @@ export default function Home() {
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
+          <a
+            href="https://www.figma.com/file/NdpmMsUPf2jWXxc4gVfry4/Daily-UI-and-Random"
+            className="card"
+          >
             <h3>Prototypes &rarr;</h3>
             <p>Go back. Go together. Build Worlds. Live Forever.</p>
           </a>
