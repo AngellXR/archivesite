@@ -6,13 +6,18 @@ function App() {
   return (
     <React.Fragment>
       <Col
-        xs="12"
-        sm="4"
+        xs="22"
+        sm="40"
         className="text-sm-left text-center text-md-left mb-sm-0"
       >
-        <span className="text-uppercase page-subtitle">Components</span>
-        <h3 className="page-title">Posts</h3>
+        <span className="text-uppercase page-subtitle">
+          Medium.com/@altontech
+        </span>
+        <h3 className="page-title">Blog</h3>
       </Col>
+      {"{{"} <a href="https://angellxr.com/">return</a>
+      {"  "}
+      {"}}"}
       <Slider />
     </React.Fragment>
   );

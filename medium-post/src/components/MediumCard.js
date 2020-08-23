@@ -1,7 +1,7 @@
 import React from "react";
 import { Card, CardBody } from "shards-react";
 import ShortenText from "../utils/ShortenText";
-import ToText from "../utils/ToText";
+import ToText from "../utils/Totext";
 import { faUser, faCalendarAlt } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // functional card component to display single item
