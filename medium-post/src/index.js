@@ -1,11 +1,10 @@
-import ‘bootstrap/dist/css/bootstrap.min.css’;
-import ‘shards-ui/dist/css/shards.min.css’;
 import React from "react";
 import ReactDOM from "react-dom";
-import App from ‘./components/App’;
-import * as serviceWorker from ‘./helpers/serviceWorker’;
-import ‘./assets/shards-dashboards.1.1.0.min.css’;
-
+import App from "./components/App";
+import * as serviceWorker from "./helpers/serviceWorker";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "shards-ui/dist/css/shards.min.css";
+import "./assets/shards-dashboards.1.1.0.min.css";
 
 ReactDOM.render(
   <React.StrictMode>
