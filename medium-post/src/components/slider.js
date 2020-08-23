@@ -3,7 +3,6 @@ import { Col, Row } from "shards-react";
 import MediumCard from "./MediumCard";
 
 // wrapper for items
-
 class Slider extends React.Component {
   constructor(props) {
     super(props);
