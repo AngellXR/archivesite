@@ -9,10 +9,13 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "bootstrap": "^4.5.2",
     "fontawesome": "^5.6.3",
     "jquery": "^3.5.1",
+=======
+>>>>>>> parent of c2a4001e... trying to work it out
 =======
 >>>>>>> parent of c2a4001e... trying to work it out
     "next": "9.3.5",

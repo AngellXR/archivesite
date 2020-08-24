@@ -2,6 +2,9 @@ import Head from "next/head";
 <<<<<<< HEAD
 =======
 import Link from "next/link";
+<<<<<<< HEAD
+>>>>>>> parent of c2a4001e... trying to work it out
+=======
 >>>>>>> parent of c2a4001e... trying to work it out
 
 export default function Home() {
