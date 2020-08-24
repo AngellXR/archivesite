@@ -10,7 +10,6 @@
   "dependencies": {
     "next": "9.3.5",
     "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-twitter-embed": "^3.0.3"
+    "react-dom": "16.13.1"
   }
 }
