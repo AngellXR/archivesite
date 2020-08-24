@@ -14,7 +14,6 @@ export default function APIPost() {
           <a>Back to home</a>
         </Link>
       </h2>
-      <TwitterFollowButton screenName={"angell_xr"} />
     </Layout>
   );
 }
