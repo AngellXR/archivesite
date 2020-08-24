@@ -1,5 +1,8 @@
-import React from "react";
 import Head from "next/head";
+<<<<<<< HEAD
+=======
+import Link from "next/link";
+>>>>>>> parent of c2a4001e... trying to work it out
 
 export default function Home() {
   return (
