@@ -26,7 +26,7 @@ export default function Home() {
         <div className="grid">
           <a href="http://blog.angellxr.com/" className="card">
             <h3>Blog &rarr;</h3>
-            <p>Learn about our quest to build the metaverse.</p>
+            <p>Learn about our quest to build the Metaverse.</p>
           </a>
 
           <a
