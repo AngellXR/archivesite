@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
 import Layout from "../../components/layout";
-import { Button } from "../../components/Button";
 
 export default function FirstPost() {
   return (
