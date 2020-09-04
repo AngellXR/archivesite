@@ -12,7 +12,7 @@ export default function APIPost() {
       <h1>Thanks for your interest in collaborating!</h1>
       <h2>
         <Link href="/">
-          <a>Back to home</a>
+          <a>return home</a>
         </Link>
       </h2>
       <ContactForm></ContactForm>
