@@ -1,7 +1,14 @@
 import React, { Component } from "react";
 import * as emailjs from "emailjs-com";
 import Layout from "../components/layout";
-import { FormFeedback, Form, FormGroup, Label, Input } from "reactstrap";
+import {
+  FormFeedback,
+  Button,
+  Form,
+  FormGroup,
+  Label,
+  Input,
+} from "reactstrap";
 class ContactForm extends Component {
   state = {
     name: "",
