@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://blog.angellxr.com/" className="card">
+          <a href="/posts/001:Welcome" className="card">
             <h3>Blog &rarr;</h3>
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
