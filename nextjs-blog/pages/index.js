@@ -54,6 +54,19 @@ export default function Home() {
           <img src="/atlogo2.png" alt="AltonTech Logo" className="logo" />
           &nbsp; by AltonTech, Inc.
         </a>
+        &nbsp; &nbsp;{" "}
+        <a
+          href="https://twitter.com/angell_xr?ref_src=twsrc%5Etfw"
+          class="twitter-follow-button"
+          data-show-count="false"
+        >
+          Follow @angell_xr
+        </a>
+        <script
+          async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"
+        ></script>
       </footer>
 
       <style jsx>{`
