@@ -26,12 +26,9 @@ export default function Home() {
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
 
-          <a
-            href="https://www.figma.com/file/NdpmMsUPf2jWXxc4gVfry4/Daily"
-            className="card"
-          >
+          <a href="https://github.com/AngellXR" className="card">
             <h3>Prototypes &rarr;</h3>
-            <p>Go back. Go together. Build Worlds. Live Forever.</p>
+            <p>Go back. Go Together. Build Worlds. Live Forever.</p>
           </a>
 
           <a href="/posts/API" className="card">
