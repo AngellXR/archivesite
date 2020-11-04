@@ -1,12 +1,19 @@
 import Head from "next/head";
 import Link from "next/link";
 
+
 export default function Home() {
   return (
     <div className="container">
       <Head>
         <title>AngellXR</title>
         <link rel="icon" href="/favicon.ico" />
+        {/* below you'll find code to add an aframe cube to the scene  */}
+        {/* <script src="https://aframe.io/releases/1.0.4/aframe.min.js"> */}
+        {/* </script> */}
+          {/* <div> */}
+          {/* <a-scene> <a-box position="0 2 -4" color="#623cea"> </a-box></a-scene> */}
+          {/* </div> */}
       </Head>
 
       <main>
