@@ -28,13 +28,13 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="/posts/001:Welcome" className="card">
-            <h3>Blog &rarr;</h3>
+          <a href="https://angellxr.github.io/angellxraframe/" className="card">
+            <h3>Sandbox &rarr;</h3>
             <p>Learn about AngellXR, and our quest to build the metaverse.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
-            <h3>Prototypes &rarr;</h3>
+            <h3>Git' Involved &rarr;</h3>
             <p>Go back. Go Together. Build Worlds. Live Forever.</p>
           </a>
 
