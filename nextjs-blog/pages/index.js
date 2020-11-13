@@ -30,11 +30,11 @@ export default function Home() {
         <div className="grid">
           <a href="https://angellxr.github.io/angellxraframe/" className="card">
             <h3>Sandbox &rarr;</h3>
-            <p>Learn about AngellXR, and our quest to build the metaverse.</p>
+            <p>For development purposes, just a quick and dirty test page.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
-            <h3>Git' Involved &rarr;</h3>
+            <h3>Github &rarr;</h3>
             <p>Go back. Go Together. Build Worlds. Live Forever.</p>
           </a>
 
@@ -169,9 +169,13 @@ export default function Home() {
           text-align: left;
           color: inherit;
           text-decoration: none;
-          border: 1px solid #eaeaea;
+          border: 23px solid #29292b;
           border-radius: 10px;
+          background: #DCDCDC;
+          box-sizing: border-box;
+          box-shadow: 10px 10px 2.3px #623CEA;
           transition: color 0.15s ease, border-color 0.15s ease;
+
         }
 
         .card:hover,
