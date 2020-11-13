@@ -178,9 +178,11 @@ export default function Home() {
         .card:focus,
         .card:active {
           color: #623cea;
-          // border-color: #623cea;
-          box-shadow: -1px -1px 3px rgba(161, 140, 238, 0.5),
-            1px 1px 3px 2px rgba(77, 45, 194, 0.5);
+          border-color: #623cea;
+          background: #DCDCDC;
+          border: 23px solid #29292B;
+          box-sizing: border-box;
+          box-shadow: 40px 40px 2.3px #623CEA;
         }
 
         .card h3 {
