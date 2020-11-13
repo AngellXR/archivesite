@@ -181,7 +181,7 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #623cea;
+          color: #333333;
           border-color: #623cea;
           background: #DCDCDC;
           border: 10px solid #29292B;
