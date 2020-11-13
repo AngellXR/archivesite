@@ -173,7 +173,7 @@ export default function Home() {
           border-radius: 10px;
           background: #DCDCDC;
           box-sizing: border-box;
-          box-shadow: 1.5rem 1.5rem 2.3px #623CEA;
+          box-shadow: 1rem 1rem 2.3px #623CEA;
           transition: color 0.15s ease, border-color 0.15s ease;
 
         }
@@ -186,7 +186,7 @@ export default function Home() {
           background: #DCDCDC;
           border: 10px solid #29292B;
           box-sizing: border-box;
-          box-shadow: 2rem 2rem 2.3px #623CEA;
+          box-shadow: 1.6rem 1.6rem 2.3px #623CEA;
         }
 
         .card h3 {
