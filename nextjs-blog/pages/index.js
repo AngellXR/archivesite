@@ -177,7 +177,7 @@ export default function Home() {
         .card:hover,
         .card:focus,
         .card:active {
-          color: #623cea;
+          color: #333333;
           // border-color: #623cea;
           box-shadow: -1px -1px 3px rgba(161, 140, 238, 0.5),
             1px 1px 3px 2px rgba(77, 45, 194, 0.5);
