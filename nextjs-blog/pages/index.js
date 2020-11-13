@@ -169,11 +169,11 @@ export default function Home() {
           text-align: left;
           color: inherit;
           text-decoration: none;
-          border: 23px solid #29292b;
+          border: 10px solid #29292b;
           border-radius: 10px;
           background: #DCDCDC;
           box-sizing: border-box;
-          box-shadow: 10px 10px 2.3px #623CEA;
+          box-shadow: 1.5rem 1.5rem 2.3px #623CEA;
           transition: color 0.15s ease, border-color 0.15s ease;
 
         }
@@ -184,9 +184,9 @@ export default function Home() {
           color: #623cea;
           border-color: #623cea;
           background: #DCDCDC;
-          border: 23px solid #29292B;
+          border: 10px solid #29292B;
           box-sizing: border-box;
-          box-shadow: 40px 40px 2.3px #623CEA;
+          box-shadow: 2rem 2rem 2.3px #623CEA;
         }
 
         .card h3 {
