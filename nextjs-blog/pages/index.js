@@ -28,7 +28,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://angellxr.github.io/angellxraframe/" className="card">
+          <a href="https://angellxr.github.io/sandboXR" className="card">
             <h3>Sandbox &rarr;</h3>
             <p>For development purposes, just a quick and dirty test page.</p>
           </a>
