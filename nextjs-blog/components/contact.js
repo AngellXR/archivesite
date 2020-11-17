@@ -9,8 +9,6 @@ import {
   Label,
   Input,
 } from "reactstrap";
-// <!-- add google form test -->
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0aV18zeV-0Id2kC5gpgR5-tQnYge72fgdM9k_6o69j3Eeqg/viewform?embedded=true" width="640" height="911" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 class ContactForm extends Component {
   state = {
     name: "",
