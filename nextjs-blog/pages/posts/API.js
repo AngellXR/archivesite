@@ -17,8 +17,9 @@ export default function APIPost() {
         </Link>
       </h2>
       {/* add google form test */}
-      <div src="https://docs.google.com/forms/d/e/1FAIpQLSe0aV18zeV-0Id2kC5gpgR5-tQnYge72fgdM9k_6o69j3Eeqg/viewform?embedded=true" width="640" height="911" frameborder="0" marginheight="0" marginwidth="0">Loading…</div>
-      
+      <div>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0aV18zeV-0Id2kC5gpgR5-tQnYge72fgdM9k_6o69j3Eeqg/viewform?embedded=true" width="640" height="911" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      </div>
       {/* <ContactForm></ContactForm> REMOVED FOR NOW */}
     </Layout>
   );
