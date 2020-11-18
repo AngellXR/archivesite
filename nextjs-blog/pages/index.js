@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import Scene from "components/aframe-comp";
+
 
 export default function Home() {
   return (
@@ -24,7 +24,7 @@ export default function Home() {
         </h1>
 
 
-        <Scene></Scene>
+       
 
         <p className="description">
           &#128126; Join in with <code>#angellxr</code>
