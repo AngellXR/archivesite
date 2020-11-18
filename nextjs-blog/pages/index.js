@@ -131,15 +131,19 @@ export default function Home() {
           margin: 0;
           line-height: 1.15;
           font-size: 4rem;
-            min-width:601px;
-          font-size: 3rem;
-            max-width:600px;
         }
 
         .title,
         .description {
           text-align: center;
         }
+
+        @media only screen 
+          and (min-device-width: 414px)
+          and (max-device-width: 736px)
+          and (-webkit-min-device-pixel-ratio: 3) .title{
+            font-size: 2.2 rem;
+          }
 
         .description {
           line-height: 1.5;
