@@ -74,7 +74,13 @@ export default function Home() {
       </footer>
 
       <style jsx>{`
-        .container {
+                @media only screen 
+                and (max-device-width: 420px)
+                and (-webkit-min-device-pixel-ratio: 3) .title{
+                  font-size: 1 rem;
+                }
+      
+          .container {
           min-height: 100vh;
           padding: 0 0.5rem;
           display: flex;
@@ -137,13 +143,6 @@ export default function Home() {
         .description {
           text-align: center;
         }
-
-        @media only screen 
-          and (min-device-width: 414px)
-          and (max-device-width: 736px)
-          and (-webkit-min-device-pixel-ratio: 3) .title{
-            font-size: 2.2 rem;
-          }
 
         .description {
           line-height: 1.5;
