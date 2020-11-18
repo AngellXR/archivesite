@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-
+import Scene from "components/aframe-comp";
 
 export default function Home() {
   return (
@@ -22,6 +22,9 @@ export default function Home() {
           {"  "}
           {"}}"}
         </h1>
+
+
+        <Scene></Scene>
 
         <p className="description">
           &#128126; Join in with <code>#angellxr</code>
@@ -134,11 +137,7 @@ export default function Home() {
           font-size: 4rem;
         }
 
-        @media screen 
-        and (max-device-width: 420px)
-        and (-webkit-min-device-pixel-ratio: 3) .title{
-          font-size: 1 rem;
-        }
+    
 
         .title,
         .description {
@@ -231,6 +230,11 @@ export default function Home() {
 
         * {
           box-sizing: border-box;
+        }
+
+        @media screen and (max-device-width: 420px)
+         .title{
+          font-size: 1 rem;
         }
       `}</style>
     </div>
