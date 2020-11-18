@@ -134,7 +134,7 @@ export default function Home() {
         .title {
           margin: 0;
           line-height: 1.15;
-          font-size: 3.8rem;
+          font-size: 3.5rem;
         }
 
     
