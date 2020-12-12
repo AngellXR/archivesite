@@ -31,9 +31,9 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://angellxr.github.io/sandboXR" className="card">
+          <a href="https://angellxr.github.io/sandboxr" className="card">
             <h3>Sandbox &rarr;</h3>
-            <p>For development purposes, just a quick and dirty test page.</p>
+            <p>A compilation of work made by the AngellXR community.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
@@ -181,7 +181,6 @@ export default function Home() {
           box-sizing: border-box;
           box-shadow: 1rem 1rem 2.3px #623CEA;
           transition: color 0.15s ease, border-color 0.15s ease;
-
         }
 
         .card:hover,
