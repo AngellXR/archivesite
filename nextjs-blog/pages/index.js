@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>AngellXR</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="google-site-verification" content="gnMRBGAGdDNogNyFJJ5QVy3R1FvkBX8uxxv70ZJLG2E" />
         {/* below you'll find code to add an aframe cube to the scene  */}
         {/* <script src="https://aframe.io/releases/1.0.4/aframe.min.js"> */}
         {/* </script> */}
@@ -58,7 +59,7 @@ export default function Home() {
 
       <footer>
         <a href="https://alton.tech/" target="_blank" rel="noopener noreferrer">
-          <img src="/atlogo2.png" alt="AltonTech Logo" className="logo" />
+          <img src="/atlogo2.png" alt="AngellXR Logo is a product of AltonTech, Inc" className="logo" />
           &nbsp; by AltonTech, Inc.
         </a>
         &nbsp; &nbsp;{" "}
