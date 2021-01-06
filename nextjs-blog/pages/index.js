@@ -9,6 +9,8 @@ export default function Home() {
         <title>AngellXR</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="gnMRBGAGdDNogNyFJJ5QVy3R1FvkBX8uxxv70ZJLG2E" />
+        <meta name="description" content="We're XR (VR/AR) enthusiasts dedicated to co-creating an open Metaverse.">
+        <meta name="keywords" content="Metaverse, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest">
         {/* below you'll find code to add an aframe cube to the scene  */}
         {/* <script src="https://aframe.io/releases/1.0.4/aframe.min.js"> */}
         {/* </script> */}
