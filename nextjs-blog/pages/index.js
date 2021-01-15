@@ -44,7 +44,7 @@ export default function Home() {
             <p>Go back. Go Together. Build Worlds. Live Forever.</p>
           </a>
 
-          <a href="/posts/API" className="card">
+          <a href="/API" className="card">
             <h3>API &rarr;</h3>
             <p>Discover and deploy boilerplate example angell projects.</p>
           </a>
