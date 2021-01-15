@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
-import Layout from "../../components/layout";
-import ContactForm from "../../components/contact";
+import Layout from "../components/layout";
+import ContactForm from "../components/contact";
 
 export default function APIPost() {
   return (
