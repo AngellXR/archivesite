@@ -9,16 +9,9 @@ export default function Home() {
         <title>AngellXR</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="gnMRBGAGdDNogNyFJJ5QVy3R1FvkBX8uxxv70ZJLG2E" />
-        <meta name="description" content="We're XR (VR/AR) enthusiasts dedicated to co-creating an open Metaverse.">
-        <meta name="keywords" content="Metaverse, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest">
-        {/* below you'll find code to add an aframe cube to the scene  */}
-        {/* <script src="https://aframe.io/releases/1.0.4/aframe.min.js"> */}
-        {/* </script> */}
-          {/* <div> */}
-          {/* <a-scene> <a-box position="0 2 -4" color="#623cea"> </a-box></a-scene> */}
-          {/* </div> */}
+        <meta name="description" content="We're XR (VR/AR) enthusiasts dedicated to co-creating an open Metaverse." />
+        <meta name="keywords" content="Metaverse, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest" />
       </Head>
-
       <main>
         <h1 className="title">
           {"{{"} <a href="https://Instagram.com/projectangell">AngellXR</a>
@@ -26,8 +19,6 @@ export default function Home() {
           {"}}"}
         </h1>
 
-
-       
 
         <p className="description">
           &#128126; Join in with <code>#angellxr</code>
