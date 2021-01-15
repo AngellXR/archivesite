@@ -13,6 +13,7 @@ export default function Home() {
         <meta name="keywords" content="Metaverse, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest" />
       </Head>
       <main>
+      <img src="/Angell-Logo-black.svg" alt="AngellXR Logo is a product of AltonTech, Inc" className="img" />
         <h1 className="title">
           {"{{"} <a href="https://Instagram.com/projectangell">AngellXR</a>
           {"  "}
@@ -21,7 +22,7 @@ export default function Home() {
 
 
         <p className="description">
-          &#128126; Join in with <code>#angellxr</code>
+          &#128126; Let's build the <code>#metaverse</code> together
         </p>
 
         <div className="grid">
