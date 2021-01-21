@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: angellxr.com
+Token: 9a8fb41bde07a2bf2c8dc9e3f0cd7db040807735077ff58e9a4211bcc66d9edc
