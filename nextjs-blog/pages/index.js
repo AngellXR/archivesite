@@ -15,7 +15,7 @@ export default function Home() {
       <main>
       <img src="/Angell-Logo-black.svg" alt="AngellXR Logo is a product of AltonTech, Inc" className="img" />
         <h1 className="title">
-          {"{{"} <a href="https://Instagram.com/projectangell">AngellXR</a>
+          {"{{"} <a href="https://discord.gg/mJyq5NK4kT">AngellXR</a>
           {"  "}
           {"}}"}
         </h1>
