@@ -33,20 +33,20 @@ export default function Home() {
 
           <a href="https://github.com/AngellXR" className="card">
             <h3>Github &rarr;</h3>
-            <p>Go back. Go Together. Build Worlds. Live Forever.</p>
+            <p>Go back. Go Together. Connect Worlds. Live Forever.</p>
           </a>
 
-          <a href="/API" className="card">
+          <a href="/Join" className="card">
             <h3>API &rarr;</h3>
-            <p>Discover and deploy boilerplate example angell projects.</p>
+            <p>Angell is a growing community dedicated to collaboration.</p>
           </a>
 
           <a
-            href="https://www.notion.so/4fda7aebdb5042bd95f1190d85f3b413?v=ee7bca7e415f45189dbeaacf3b966736"
+            href="https://omigroup.org/home"
             className="card"
           >
-            <h3>Roadmap &rarr;</h3>
-            <p>Track up to date progress on AngellXR features.</p>
+            <h3>Open Metaverse &rarr;</h3>
+            <p>We co-created and host the Open Metaverse Interoperability group.</p>
           </a>
         </div>
       </main>
