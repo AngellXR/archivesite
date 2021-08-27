@@ -36,7 +36,7 @@ export default function Home() {
             <p>Go back. Go Together. Connect Worlds. Live Forever.</p>
           </a>
 
-          <a href="/API.js" className="card">
+          <a href="/API" className="card">
             <h3>Collaborate &rarr;</h3>
             <p>Angell is a growing community dedicated to collaboration.</p>
           </a>
@@ -46,7 +46,7 @@ export default function Home() {
             className="card"
           >
             <h3>Open Metaverse &rarr;</h3>
-            <p>We co-created the Open Metaverse Interoperability group.</p>
+            <p>Founded the Open Metaverse Interoperability group.</p>
           </a>
         </div>
       </main>
