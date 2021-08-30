@@ -46,7 +46,7 @@ export default function Home() {
             className="card"
           >
             <h3>Open Metaverse &rarr;</h3>
-            <p>Founded the Open Metaverse Interoperability group.</p>
+            <p>Co-founded the Open Metaverse Interoperability group.</p>
           </a>
         </div>
       </main>
