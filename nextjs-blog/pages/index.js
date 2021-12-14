@@ -26,7 +26,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://angellxr.github.io/showcasexr" className="card">
+          <a href="https://angellxr.github.io/xrshowcase" className="card">
             <h3>ShowcaseXR &rarr;</h3>
             <p>A compilation of work curated by the AngellXR community.</p>
           </a>
