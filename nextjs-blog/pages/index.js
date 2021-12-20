@@ -36,8 +36,8 @@ export default function Home() {
             <p>Go back. Go Together. Connect Worlds. Live Forever.</p>
           </a>
 
-          <a href="/API" className="card">
-            <h3>Collaborate &rarr;</h3>
+          <a href="https://discord.gg/bx7UXFchCV" className="card">
+            <h3>Collaborate on Discord &rarr;</h3>
             <p>Angell is a growing community dedicated to collaboration.</p>
           </a>
 
