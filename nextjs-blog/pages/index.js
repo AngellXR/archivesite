@@ -52,7 +52,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <a href="https://alton.tech/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.alton.tech/" target="_blank" rel="noopener noreferrer">
           <img src="/atlogo2.png" alt="AngellXR Logo is a product of AltonTech, Inc" className="logo" />
           &nbsp; by AltonTech, Inc.
         </a>
