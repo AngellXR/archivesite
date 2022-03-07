@@ -44,7 +44,7 @@ export default function Home() {
 
           <a href="https://github.com/AngellXR" className="card">
             <h3>Github &rarr;</h3>
-            <p>Incubations for and by the open Metaverse</p>
+            <p>Product incubations for and by the open Metaverse.</p>
           </a>
 
         </div>
