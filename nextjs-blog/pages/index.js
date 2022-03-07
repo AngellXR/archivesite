@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/link";
+// import Link from "next/link";
 
 
 export default function Home() {
@@ -27,13 +27,14 @@ export default function Home() {
 
         <div className="grid">
           <a href="https://angellxr.github.io/xrshowcase" className="card">
-            <h3>XR Showcase &rarr;</h3>
+            <h3>ShowcaseXR &rarr;</h3>
             <p>A compilation of work curated by the AngellXR community.</p>
           </a>
 
-          <a href="https://github.com/AngellXR" className="card">
-            <h3>Github &rarr;</h3>
-            <p>Go back. Go Together. Connect Worlds. Live Forever.</p>
+
+          <a href="https://omigroup.org/" className="card">
+            <h3>Open Metaverse &rarr;</h3>
+            <p>Co-founded the Open Metaverse Interoperability group.</p>
           </a>
 
           <a href="https://discord.gg/bx7UXFchCV" className="card">
@@ -41,13 +42,11 @@ export default function Home() {
             <p>Angell is a growing community dedicated to collaboration.</p>
           </a>
 
-          <a
-            href="https://omigroup.org/home"
-            className="card"
-          >
-            <h3>Open Metaverse &rarr;</h3>
-            <p>Co-founded the Open Metaverse Interoperability group.</p>
+          <a href="https://github.com/AngellXR" className="card">
+            <h3>Github &rarr;</h3>
+            <p>Incubations for and by the open Metaverse</p>
           </a>
+
         </div>
       </main>
 
