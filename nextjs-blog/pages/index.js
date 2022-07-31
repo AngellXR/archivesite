@@ -28,10 +28,9 @@ export default function Home() {
         <div className="grid">
           <a href="https://angellxr.github.io/xrshowcase" className="card">
             <h3>ShowcaseXR &rarr;</h3>
-            <p>A compilation of work curated by the AngellXR community.</p>
+            <p>A collection of work curated by the AngellXR community.</p>
           </a>
-
-
+          
           <a href="https://omigroup.org/" className="card">
             <h3>Open Metaverse &rarr;</h3>
             <p>Co-founded the Open Metaverse Interoperability group.</p>
@@ -39,12 +38,12 @@ export default function Home() {
 
           <a href="https://discord.gg/bx7UXFchCV" className="card">
             <h3>Collaborate on Discord &rarr;</h3>
-            <p>Angell is a growing community dedicated to collaboration.</p>
+            <p>Angell is an metaverse collaboration community.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
             <h3>Github &rarr;</h3>
-            <p>Product incubations for and by the open Metaverse.</p>
+            <p>Incubations for and by the open Metaverse.</p>
           </a>
 
         </div>
