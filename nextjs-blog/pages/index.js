@@ -38,12 +38,12 @@ export default function Home() {
 
           <a href="https://discord.gg/bx7UXFchCV" className="card">
             <h3>Collaborate on Discord &rarr;</h3>
-            <p>Angell is an metaverse collaboration community.</p>
+            <p>Join our metaverse collaboration community.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
             <h3>Github &rarr;</h3>
-            <p>Incubations for and by the open Metaverse.</p>
+            <p>Open source incubations for and by the open Metaverse.</p>
           </a>
 
         </div>
@@ -52,7 +52,7 @@ export default function Home() {
       <footer>
         <a href="https://www.alton.tech/" target="_blank" rel="noopener noreferrer">
           <img src="/atlogo2.png" alt="AngellXR Logo is a product of AltonTech, Inc" className="logo" />
-          &nbsp; by AltonTech, Inc.
+          &nbsp; AltonTech, Inc.
         </a>
         &nbsp; &nbsp;{" "}
         <a
