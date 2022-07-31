@@ -30,10 +30,10 @@ export default function Home() {
             <h3>ShowcaseXR &rarr;</h3>
             <p>A collection of work curated by the AngellXR community.</p>
           </a>
-          
+
           <a href="https://omigroup.org/" className="card">
             <h3>Open Metaverse &rarr;</h3>
-            <p>Co-founded the Open Metaverse Interoperability group.</p>
+            <p>Hosts of the Open Metaverse Interoperability group.</p>
           </a>
 
           <a href="https://discord.gg/bx7UXFchCV" className="card">
