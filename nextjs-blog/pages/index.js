@@ -37,13 +37,23 @@ export default function Home() {
           </a>
 
           <a href="https://discord.gg/bx7UXFchCV" className="card">
-            <h3>Collaborate on Discord &rarr;</h3>
+            <h3>Discord &rarr;</h3>
             <p>Join our metaverse collaboration community.</p>
           </a>
 
           <a href="https://github.com/AngellXR" className="card">
             <h3>Github &rarr;</h3>
             <p>Open source incubations for and by the open Metaverse.</p>
+          </a>
+
+          <a href="https://angell.fund/" className="card">
+            <h3>Coming soon...  &rarr;</h3>
+            <p>An incubator for founders using open interoperability protocols.</p>
+          </a>
+
+          <a href="https://teespring.com/i-love-xr?pid=211&cid=5288" className="card">
+            <h3>Merch &rarr;</h3>
+            <p>Cozy threads for  those who are into that sort of thing.</p>
           </a>
 
         </div>
@@ -116,6 +126,7 @@ export default function Home() {
         .title a {
           color: #623cea;
           text-decoration: none;
+
         }
 
         .title a:hover,
@@ -126,8 +137,8 @@ export default function Home() {
 
         .title {
           margin: 0;
-          line-height: 1.15;
-          font-size: 3.5rem;
+          line-height: 1.5;
+          font-size: 5vh;
         }
 
     
@@ -138,8 +149,8 @@ export default function Home() {
         }
 
         .description {
-          line-height: 1.5;
-          font-size: 1.5rem;
+          line-height: auto;
+          font-size: 3vh;
         }
 
         code {
@@ -168,11 +179,11 @@ export default function Home() {
           text-align: left;
           color: inherit;
           text-decoration: none;
-          border: 10px solid #29292b;
+          border: 1vh solid #29292b;
           border-radius: 10px;
           background: #DCDCDC;
           box-sizing: border-box;
-          box-shadow: 1rem 1rem 2.3px #623CEA;
+          box-shadow: 1rem 1rem 1vh #623CEA;
           transition: color 0.15s ease, border-color 0.15s ease;
         }
 
@@ -182,20 +193,20 @@ export default function Home() {
           color: #333333;
           border-color: #623cea;
           background: #DCDCDC;
-          border: 10px solid #29292B;
+          border: 0.9vh solid #29292B;
           box-sizing: border-box;
-          box-shadow: 1.6rem 1.6rem 2.3px #623CEA;
+          box-shadow: 0.7rem 0.7rem 0.6vh #623CEA;
         }
 
         .card h3 {
           margin: 0 0 1rem 0;
-          font-size: 1.5rem;
+          font-size: 2.23vh;
         }
 
         .card p {
           margin: 0;
           font-size: 1.25rem;
-          line-height: 1.5;
+          line-height: auto;
         }
 
         .logo {
