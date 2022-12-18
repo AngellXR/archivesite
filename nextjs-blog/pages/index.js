@@ -28,7 +28,7 @@ export default function Home() {
         <div className="grid">
           <a href="https://angellxr.github.io/xrshowcase" className="card">
             <h3>XR Showcase &rarr;</h3>
-            <p>A collection of work curated by the AngellXR community.</p>
+            <p>A collection of work curated by the Angell XR community.</p>
           </a>
 
           <a href="https://omigroup.org/" className="card">
