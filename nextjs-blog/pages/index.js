@@ -66,11 +66,11 @@ export default function Home() {
         </a>
         &nbsp; &nbsp;{" "}
         <a
-          href="https://twitter.com/angell_xr?ref_src=twsrc%5Etfw"
+          href="https://widerweb.org/@angell"
           class="twitter-follow-button"
           data-show-count="false"
         >
-          Follow @angell_xr
+          Follow @angell@widerweb.org in the Fediverse!
         </a>
         <script
           async
