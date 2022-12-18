@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>AngellXR</title>
+        <title>Angell XR</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="google-site-verification" content="gnMRBGAGdDNogNyFJJ5QVy3R1FvkBX8uxxv70ZJLG2E" />
         <meta name="description" content="We're XR (VR/AR) enthusiasts dedicated to co-creating an open Metaverse." />
-        <meta name="keywords" content="Metaverse, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest" />
+        <meta name="keywords" content="Metaverse, Angell, Interoperability, protocol, fund, WebXR, XR, VR, AR, Startup, Maryland, collaboration, Maryland VR, Annapolis, invest" />
       </Head>
       <main>
-      <img src="/Angell-Logo-black.svg" alt="AngellXR Logo is a product of AltonTech, Inc" className="img" />
+        <img src="/Angell-Logo-black.svg" alt="Angell XR is a product of AltonTech, Inc" className="img" />
         <h1 className="title">
           {"{{"} <a href="https://discord.gg/mJyq5NK4kT">AngellXR</a>
           {"  "}
@@ -27,7 +27,7 @@ export default function Home() {
 
         <div className="grid">
           <a href="https://angellxr.github.io/xrshowcase" className="card">
-            <h3>ShowcaseXR &rarr;</h3>
+            <h3>XR Showcase &rarr;</h3>
             <p>A collection of work curated by the AngellXR community.</p>
           </a>
 
@@ -61,7 +61,7 @@ export default function Home() {
 
       <footer>
         <a href="https://www.alton.tech/" target="_blank" rel="noopener noreferrer">
-          <img src="/atlogo2.png" alt="AngellXR Logo is a product of AltonTech, Inc" className="logo" />
+          <img src="/atlogo2.png" alt="Angell XR is a product of AltonTech, Inc" className="logo" />
           &nbsp; AltonTech, Inc.
         </a>
         &nbsp; &nbsp;{" "}
